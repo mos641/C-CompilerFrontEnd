@@ -1,5 +1,5 @@
 /************************************************************
-* File name : Buffer.c
+* File name : MainBuffer.c
 * Compiler : MS Visual Studio 2019, Debug Win32
 * Author : Paulo Sousa, Mostapha Abdelaziz
 * Professor: Paulo Sousa
