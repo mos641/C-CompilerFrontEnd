@@ -1,0 +1,95 @@
+Reading file a32C_Expression.fy ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  200
+The current size of the buffer is:  122
+
+Printing input buffer contents:
+
+function main {
+	Float PI
+	Float r
+	Float Vol
+	PI is 3.14
+	r is input
+	Vol is 4.0 / 3.0 * PI * (r * r * r)
+	output Vol
+}
+
+Parsing the source file...
+
+Faiyum: Variable Identifier Parsed
+Faiyum: Variable Identifier Parsed
+Faiyum: Declaration Statement parsed
+Faiyum: Statement parsed
+Faiyum: Variable Identifier Parsed
+Faiyum: Declaration Statement parsed
+Faiyum: Statement parsed
+Faiyum: Variable Identifier Parsed
+Faiyum: Declaration Statement parsed
+Faiyum: Statement parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Multiplicative Arithmetic Expresion Prime Parsed
+Faiyum: Multiplicative Arithmetic Expression Parsed
+Faiyum: Additive Arithmetic Expression Prime Parsed
+Faiyum: Additive Arithmetic Expression Parsed
+Faiyum: Arithmetic Expression Parsed
+Faiyum: Assignment Expression Parsed
+Faiyum: Assignment Statement Parsed
+Faiyum: Statement parsed
+Faiyum: Input Statement Parsed
+Faiyum: Assignment Expression Parsed
+Faiyum: Assignment Statement Parsed
+Faiyum: Statement parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Unary Arithmetic Expression Parsed
+Faiyum: Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Unary Arithmetic Expression Parsed
+Faiyum: Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Unary Arithmetic Expression Parsed
+Faiyum: Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Multiplicative Arithmetic Expresion Prime Parsed
+Faiyum: Multiplicative Arithmetic Expression Parsed
+Faiyum: Multiplicative Arithmetic Expresion Prime Parsed
+Faiyum: Multiplicative Arithmetic Expression Parsed
+Faiyum: Multiplicative Arithmetic Expresion Prime Parsed
+Faiyum: Multiplicative Arithmetic Expression Parsed
+Faiyum: Additive Arithmetic Expression Prime Parsed
+Faiyum: Additive Arithmetic Expression Parsed
+Faiyum: Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Arithmetic Expression Parsed
+Faiyum: Primary Arithmetic Expression Parsed
+Faiyum: Multiplicative Arithmetic Expresion Prime Parsed
+Faiyum: Multiplicative Arithmetic Expression Parsed
+Faiyum: Multiplicative Arithmetic Expresion Prime Parsed
+Faiyum: Multiplicative Arithmetic Expression Parsed
+Faiyum: Multiplicative Arithmetic Expresion Prime Parsed
+Faiyum: Multiplicative Arithmetic Expression Parsed
+Faiyum: Multiplicative Arithmetic Expresion Prime Parsed
+Faiyum: Multiplicative Arithmetic Expression Parsed
+Faiyum: Additive Arithmetic Expression Prime Parsed
+Faiyum: Additive Arithmetic Expression Parsed
+Faiyum: Arithmetic Expression Parsed
+Faiyum: Assignment Expression Parsed
+Faiyum: Assignment Statement Parsed
+Faiyum: Statement parsed
+Faiyum: Output statement parsed
+Faiyum: Statement parsed
+Faiyum: Statements parsed
+Faiyum: Optional statements parsed
+Faiyum: Program parsed
+Faiyum: Source file parsed
+
+Collecting garbage...

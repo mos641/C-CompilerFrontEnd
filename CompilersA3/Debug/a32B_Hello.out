@@ -1,0 +1,24 @@
+Reading file a32B_Hello.fy ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  200
+The current size of the buffer is:  42
+
+Printing input buffer contents:
+
+function main {
+	output "Hello World!"
+}
+
+Parsing the source file...
+
+Faiyum: Variable Identifier Parsed
+Faiyum: Output statement parsed
+Faiyum: Statement parsed
+Faiyum: Statements parsed
+Faiyum: Optional statements parsed
+Faiyum: Program parsed
+Faiyum: Source file parsed
+
+Collecting garbage...

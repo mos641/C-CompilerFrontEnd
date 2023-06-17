@@ -1,0 +1,3 @@
+﻿  Parser.c
+D:\Users\moabd\Documents\Current\Compilers\Projects\CompilersA3\Parser.c(347,25): warning C4013: 'declarationStatements' undefined; assuming extern returning int
+  CompilersA3.vcxproj -> D:\Users\moabd\Documents\Current\Compilers\Projects\CompilersA3\Debug\CompilersA3.exe
