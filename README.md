@@ -1,4 +1,5 @@
 # Compiler - Front End
-Front End Compiler including buffer, scanner and parser  
-For the unique defined lanuage "Faiyum"  
-Testing .bat script and built program are in the Debug Folder  
+Designed a new unique programming language with distinct grammar and semantics named "Faiyum".  
+Developed a front-end compiler in C for the language.  
+Compiler includes use of a buffer, scanner, and parser.  
+Testing .bat script and built program are in the Debug Folder.  
